@@ -349,7 +349,7 @@
         "kind": 5,
         "importPath": "testpro.wsgi",
         "description": "testpro.wsgi",
-        "peekOfCode": "application = get_wsgi_application()",
+        "peekOfCode": "application = get_wsgi_application()\napp=application",
         "detail": "testpro.wsgi",
         "documentation": {}
     },
